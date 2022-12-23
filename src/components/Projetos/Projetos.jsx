@@ -24,7 +24,6 @@ export function Projetos() {
                     </ContentMyProject >
                 </EffectRight>
             </ContentProjetos>
-
         </ContainerProjetos >
     );
 }

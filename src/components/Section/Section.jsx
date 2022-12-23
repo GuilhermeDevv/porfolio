@@ -5,7 +5,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css'
 
 import { ContainerSection, MyPerson, ButtonCv, ContentInfoMy, MyImg } from './style';
-import pdf from './CV.pdf'
+import pdf from './Currículo.pdf'
 export function Section() {
     AOS.init();
     const { menu, setMenu } = useContext(Contexto)
