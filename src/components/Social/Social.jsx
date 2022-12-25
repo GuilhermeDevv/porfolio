@@ -18,7 +18,7 @@ export function Social() {
                             </a>
                         </li>
                         <li>
-                            <a href="www.linkedin.com/in/guilhermeSantosDEVV">
+                            <a href="https://linkedin.com/in/guilhermeSantosDEVV">
 
                                 {<AiFillLinkedin />}
 
