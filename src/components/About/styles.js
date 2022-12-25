@@ -27,7 +27,10 @@ export const ContentSobre = styled.div`
     & p{
         color: white;
         font-size: 22px;
-        
+        & a{
+            color:blue;
+            &:hover{text-decoration:underline white;}
+        }
     }
 
 

@@ -17,7 +17,9 @@ export function Sobre() {
 
                 <EffectRight>
                     <p>
-                        Olá me chamo Guilherme, tenho 17 anos sou do Rio de Janeiro/RJ. Estudo constantemente pois minha única competição é comigo mesmo, tento ser melhor todos os dias. Desenvolvo na parte do Front-end a +- 1 ano e 3 meses.
+                        Desenvolvedor front-end junior experiente com habilidades em HTML, CSS, JavaScript, React, Node.js, Express e MongoDB. Proativo e dedicado, com uma paixão por aprender novas tecnologias e solucionar problemas.
+                        <br />
+                        Desenvolvo sites e aplicativos web usando HTML, CSS, JavaScript e outras tecnologias, veja no tópico de <a href="#Projetos">PROJETOS</a>
                     </p>
                 </EffectRight>
             </ContentSobre>
